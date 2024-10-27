@@ -7,7 +7,7 @@
 https://github.com/user-attachments/assets/a94af719-e7f0-4a9c-9685-8f8877a1bf17
 
 
-## What Is DDOS
+## What Is DDOS ?
 
 DDoS Attack means "Distributed Denial-of-Service (DDoS) Attack" and it is a cybercrime in which the attacker floods a server with internet traffic to prevent users from accessing connected online services and sites.
 
