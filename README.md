@@ -18,7 +18,11 @@ Other distributed denial-of-service attacks are financially motivated, such as a
 DDoS attacks are on the rise, and even some of the largest global companies are not immune to being "DDoS'ed". The largest attack in history occurred in February 2020 to none other than Amazon Web Services (AWS), overtaking an earlier attack on GitHub two years prior. DDoS ramifications include a drop in legitimate traffic, lost business, and reputation damage.
 
 As the Internet of Things (IoT) continues to proliferate, as do the number of remote employees working from home, and so will the number of devices connected to a network. The security of each IoT device may not necessarily keep up, leaving the network to which it is connected vulnerable to attack. As such, the importance of DDoS protection and mitigation is crucial.
-# What is DDOS
+ 
+## This Tool Tested On :
+<ul>
+  <li>Kali Linux</li>
+<ul>
 
 
 
