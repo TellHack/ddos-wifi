@@ -1,9 +1,13 @@
+## DDOS WIFI
+
+
 # From Paz
 
 
+https://github.com/user-attachments/assets/345f0051-7960-4f93-bed1-f53c2584650a
 
 
-# ddos-wifi
+## What Is DDOS
 
 DDoS Attack means "Distributed Denial-of-Service (DDoS) Attack" and it is a cybercrime in which the attacker floods a server with internet traffic to prevent users from accessing connected online services and sites.
 
