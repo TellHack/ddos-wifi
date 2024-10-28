@@ -30,7 +30,7 @@ As the Internet of Things (IoT) continues to proliferate, as do the number of re
 ## Installing (Kali Linux) :
 
 ```
-git clone https://github.com/TellHack/ddos.wifi
+git clone https://github.com/TellHack/ddos-wifi
 cd ddos-wifi
 sudo python3 ddoswifi.py
 ```
