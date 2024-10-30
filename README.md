@@ -3,6 +3,7 @@
 
 # Paz
 
+### How firewalls work :
 
 https://github.com/user-attachments/assets/feb9061e-aa0c-4ee3-b6a1-46c0b3ae7697
 
