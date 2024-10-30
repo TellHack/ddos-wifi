@@ -4,7 +4,7 @@
 # Paz
 
 
-https://github.com/user-attachments/assets/a94af719-e7f0-4a9c-9685-8f8877a1bf17
+https://github.com/user-attachments/assets/feb9061e-aa0c-4ee3-b6a1-46c0b3ae7697
 
 
 ## What Is DDOS ?
