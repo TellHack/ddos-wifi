@@ -36,7 +36,7 @@ cd ddos-wifi
 sudo python3 ddoswifi.py
 ```
 https://github.com/user-attachments/assets/7bd62ea3-0642-47be-b1ac-c677488219fe
-<p>For You'r Father :><P>
+<p>For Your Father :><P>
 
 
 ## From DavidBombal
